@@ -5,7 +5,7 @@ A new Flutter project.
 
 ![Screenshot_1704126154](https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/1116f1b6-fc6c-4be9-b303-bbf4f5f4d609)
 
-<img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/1116f1b6-fc6c-4be9-b303-bbf4f5f4d609" width="300" height="300">
+<img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/1116f1b6-fc6c-4be9-b303-bbf4f5f4d609" width="300" height="500">
 
 
 
