@@ -7,12 +7,11 @@ splash Screen
 <img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/1116f1b6-fc6c-4be9-b303-bbf4f5f4d609" width="300" height="500">
 home screen
 <img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/650aa2e6-8ad8-4f09-8168-7e8fa37d03b4)" width="300" height="500">
+add note
+<img src="<img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/1116f1b6-fc6c-4be9-b303-bbf4f5f4d609" width="300" height="500">" width="300" height="500">
+سشرث 
+<img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/d7ab0a83-3c06-49d2-b6cc-4a99a6a515b2" width="300" height="500">
 
-
-
-
-
-![Screenshot_1704126271](https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/cfb7d0e9-a9ff-44f7-9de3-923fb0ba9543)
 
 ![Screenshot_1704126284](https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/d7ab0a83-3c06-49d2-b6cc-4a99a6a515b2)
 
