@@ -11,9 +11,9 @@ save note
 <img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/d7ab0a83-3c06-49d2-b6cc-4a99a6a515b2" width="300" height="500">
 
 
-![Screenshot_1704126284](https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/d7ab0a83-3c06-49d2-b6cc-4a99a6a515b2)
+list note
+<img src="https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/ee9a4176-f312-4817-a6af-424081d0cda7" width="300" height="500">
 
-![Screenshot_1704126363](https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/ee9a4176-f312-4817-a6af-424081d0cda7)
 
 
 ![Screenshot_1704126365](https://github.com/Yousif-M-M-H/my_notes_app/assets/63748976/44d5d8c7-23d8-4429-8e6c-9d2dc6c6f602)
